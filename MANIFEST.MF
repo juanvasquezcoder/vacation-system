@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Juan Vasquez
+Main-Class: Welcome
+X-COMMENT: primer curso java
